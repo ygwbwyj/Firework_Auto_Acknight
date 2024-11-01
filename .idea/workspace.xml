@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8090a711-8ab1-4af6-a59d-46e3b1fb0888" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/OCR/ambiguous_words.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/ambiguous_words.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/classifier_tester.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/classifier_tester.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/cntraining.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/cntraining.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/combine_lang_model.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/combine_lang_model.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/combine_tessdata.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/combine_tessdata.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/dawg2wordlist.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/dawg2wordlist.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/doc/AUTHORS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/doc/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/doc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/iconv.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/icudt64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/icuin64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/icuuc64.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libarchive-13.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libbz2-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libcairo-2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libcurl-4.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libeay32.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libexpat-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libffi-6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libfontconfig-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libfreetype-6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libgcc_s_seh-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libgif-7.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libglib-2.0-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libgobject-2.0-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libgomp-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libharfbuzz-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libidn2-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libintl-8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libjbig-2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libjpeg-8.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/liblept-5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/liblz4-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/liblzma-5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/liblzo2-2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libnettle-6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libnghttp2-14.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libopenjp2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libpango-1.0-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libpangocairo-1.0-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libpangoft2-1.0-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libpangowin32-1.0-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libpcre-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libpixman-1-0.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libpng16-16.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libssh2-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libstdc++-6.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libtesseract-5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libtiff-5.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libunistring-2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libwebp-7.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libwinpthread-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libxml2-2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/libzstd-1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/lstmeval.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/lstmeval.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/lstmtraining.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/lstmtraining.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/merge_unicharsets.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/merge_unicharsets.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/mftraining.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/mftraining.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/set_unicharset_properties.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/set_unicharset_properties.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/shapeclustering.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/shapeclustering.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/ssleay32.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/ScrollView.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/chi_sim.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/alto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/ambigs.train" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/api_config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/bigram" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/box.train" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/box.train.stderr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/digits" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/get.images" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/hocr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/inter" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/kannada" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/linebox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/logfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/lstm.train" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/lstmbox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/lstmdebug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/makebox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/quiet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/rebox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/strokewidth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/tsv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/unlv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/configs/wordstrbox" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/eng.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/eng.user-patterns" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/eng.user-words" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/osd.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/pdf.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/piccolo2d-core-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/piccolo2d-extras-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/tessconfigs/batch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/tessconfigs/batch.nochop" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/tessconfigs/matdemo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/tessconfigs/msdemo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/tessconfigs/nobatch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tessdata/tessconfigs/segdemo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tesseract-uninstall.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tesseract.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/tesseract.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/text2image.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/text2image.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/unicharambigs.5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/unicharset.5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/unicharset_extractor.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/unicharset_extractor.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/winpath.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/wordlist2dawg.1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/wordlist2dawg.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCR/zlib1.dll" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2oCcrx2eHzPtBfDuoxW5sdsAah0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.check_yg.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cv2_text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8090a711-8ab1-4af6-a59d-46e3b1fb0888" name="更改" comment="" />
+      <created>1730377200432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730377200432</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cv2_yg.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
